@@ -1,0 +1,1 @@
+web: gunicorn it_kamba.wsgi
